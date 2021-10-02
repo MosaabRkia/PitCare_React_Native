@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAa92PF0YaP0qui2uYy2ovKwAAAAACAAAAAAAQZgAAAAEAACAAAAAtKPgiO0r162QHkXowdsT4pY5AR7fYQE6OFOlBFrkFxAAAAAAOgAAAAAIAACAAAABlPMv/HRljIsb6aDZ8M/y7mIFz6vtLhs+8j6oHxmzrvyAAAABlDNNLZDWnzdZM6F1LVx+nfpXJ1MBJZLIU2XhJleEZR0AAAAAGndjKZEcEGuAl+p1lBxY7ys9RFOgNBgPgGtuy1QeQlMdUDktihKI6ms7RezGMhfMaIT+xF7vVsvMhv8yh7cV2</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ruppinmobile.tempdomain.co.il</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
