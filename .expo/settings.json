@@ -3,7 +3,8 @@
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "urlRandomness": null,
-  "http": false,
-  "https": false
+  "urlRandomness": "gu-w4a",
+  "https": false,
+  "scheme": null,
+  "devClient": false
 }
